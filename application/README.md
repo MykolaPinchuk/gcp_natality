@@ -1,3 +1,16 @@
+## This is slightly modified copy from https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive2/production_ml/babyweight
+
+Another slightly more advanced of this project is https://github.com/zacharyvunguyen/Production-Ready-ML-Pipeline-on-GCP-Baby-Weight-Prediction
+
+The next step in building end-to-end ML projects is to build an ML pipeline with real-tme data.
+The good source is https://aiinpractice.com/gcp-mlops-vertex-ai-pipeline-scikit-learn/.
+That blog is a short version of the project built in a textbook on DS on GCP by Lakshmanan.
+
+
+
+
+# Here is documentation from the original:
+
 # Baby Weight Prediction Example
 
 Disclaimer: This is not an official Google product.
